@@ -7,6 +7,14 @@
         "enabled": true,
         "priority": 1
     },
+        "bfzy": {
+        "api": "https://bfzyapi.com/api.php/provide/vod",
+        "name": "暴风资源"
+    },
+        "zy360": {
+        "api": "https://360zy.com/api.php/provide/vod",
+        "name": "360资源"
+    },
     {
         "id": "wolong",
         "name": "卧龙资源",
